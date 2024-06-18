@@ -1,0 +1,30 @@
+{
+  "name": "tupanaTrail",
+  "version": "1.0.0",
+  "description": "Aplicación móvil para localizar gimnasios y gestionar clases.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.66.4",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/stack": "^6.0.11",
+    "react-native-gesture-handler": "^2.1.0",
+    "react-native-reanimated": "^2.3.1",
+    "react-native-screens": "^3.9.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "@react-native-community/masked-view": "^0.1.11",
+    "react-native-maps": "^0.29.4",
+    "axios": "^0.25.0",
+    "react-native-qrcode-svg": "^6.0.6"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.10.0"
+ 
+  }
+}
